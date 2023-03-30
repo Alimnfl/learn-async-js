@@ -1,0 +1,17 @@
+Step 1
+basic Async
+
+Step 2
+basic Async 2
+
+step 3
+basic Async 3
+
+step 4
+callback.js
+
+step 5
+callbackPromise.js => belajar callbackPromise
+
+step 6
+Akhir dari pembelajaran Promise, Async Await Simple
